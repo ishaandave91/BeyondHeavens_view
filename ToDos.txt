@@ -1,0 +1,7 @@
+add email validation
+add else part for the available video count > 0
+
+beyond heavens main:
+Revert date selection to 2mrw
+change time selection to hourly
+use form instead of separate text  input and submit button: started on recordings_display_form_test.py
